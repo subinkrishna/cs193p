@@ -1,5 +1,5 @@
 ##### Code from cs193p: Stanford School of Enginneering - Developing iOS apps with Swift
-More links
+**Useful links**
 * [stanford.edu/class/cs193p][stanford]
 * [iTunes][itunes]
 * [facebook.com/CS193p/][facebook]
